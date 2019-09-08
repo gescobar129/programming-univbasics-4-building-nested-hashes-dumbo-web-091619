@@ -10,10 +10,10 @@ end
 
 def monopoly_with_third_tier
   hash = { :railroads => { :rent_in_dollars => {
-    :one_key => {}, 
-    :two_key => {}, 
-    :three_key => {},
-    :four_key => {} 
+    :one_piece_owned => {}, 
+    :two_pieces_owned => {}, 
+    :three_pieces_owned => {},
+    :four_pieces_owned => {} 
     
   } 
   }
